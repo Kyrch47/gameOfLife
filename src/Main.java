@@ -21,7 +21,7 @@ public class Main {
 //
 //        Grid grid = new Grid(matrix);
 
-        String[] test = {"h=w"};
+        String[] test = {"h=49"};
 
         GameOfLife GOL = new GameOfLife(test);
         System.out.println(GOL.getHeight());
